@@ -1,16 +1,25 @@
-# untitled11
 
-A new Flutter project.
+# Coffee Shop App
 
-## Getting Started
+A Flutter-based coffee shop application that allows users to search for coffee products and provides an admin interface to manage products. The app is equipped with a native splash screen and features full CRUD operations (Create, Read, Update, Delete) for managing the product catalog.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- *Product Search*: Users can easily search for products from the main page using the search functionality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- *Add Products*: Admins can add new products with necessary details.
+- *Edit Products*: Admins can modify existing product details.
+- *View Products*: Admins can view a complete list of all available products.
+
+# 
+
+- Add : new coffee products.
+- Update : details of existing products.
+- Delete : unwanted products from the list.
+- View all : coffee products with details.
+
+- ## Developer Information
+
+- Name: Youssef Ramadan Abbas
+- Role: Flutter Developer
